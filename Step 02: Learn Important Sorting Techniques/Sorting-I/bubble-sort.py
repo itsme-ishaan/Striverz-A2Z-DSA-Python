@@ -13,5 +13,5 @@ def bubble_sort(arr):
 
 
 # Example arr = [5, 3, 8, 4, 2]
-
+# Time Complexity : O(n²)
 
